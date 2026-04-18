@@ -1,4 +1,4 @@
-![Illuminati Writing Corpus Engine](https://github.com/user-attachments/assets/9d70660c-7b7c-4ccf-ac47-ffd3c4171d41)
+https://github.com/user-attachments/assets/66754ea2-9268-4dc3-8db7-869d51232616
 
 # Illuminati Writing Corpus Engine
 
