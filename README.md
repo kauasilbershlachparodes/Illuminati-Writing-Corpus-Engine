@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/66754ea2-9268-4dc3-8db7-869d51232616
 
-# Illuminati Writing Corpus Engine - Corpus First Intelligence
+# Illuminati Writing Corpus Engine - Corpus Intelligence
 
 Illuminati Writing Corpus Engine is a corpus-first intelligence writing system built on an embedded 11-source doctrine base. It does not write like a generic assistant. It reads across the full corpus, ranks evidence, tests competing hypotheses, exposes weak logic, enforces confidence discipline, and compresses complexity into cold, decision-ready judgment.
 
